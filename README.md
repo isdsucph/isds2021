@@ -10,7 +10,7 @@ This project is released under the MIT License, which basically lets you do anyt
 
 ### MIT License
 
-Copyright (c) 2019 Andreas Bjerre-Nielsen
+Copyright (c) 2021 Andreas Bjerre-Nielsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
