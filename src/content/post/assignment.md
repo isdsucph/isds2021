@@ -1,10 +1,10 @@
 ---
 title:  "Assignments"
-date: 2021-06-30
+date: 2021-07-1
 ---
-This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon [here](https://absalon.ku.dk/courses/44054/assignments).
+This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon [here](https://absalon.ku.dk/courses/48020/assignments).
 
-**Assignment 0:** Available now, [here](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb). Deadline August 07 @ 12.00
+**Assignment 0:** Available now, [here](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb). Deadline July 28 @ 12.00
 
 **Assignment 1:** Available now, [here](https://github.com/abjer/isds2020/blob/master/assignments/assignment1/assignment_1.ipynb). Deadline August 14 @ 23.59
 

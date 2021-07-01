@@ -1,10 +1,10 @@
 ---
 title: Exam project
-date: 2021-06-30
+date: 2021-07-01
 ---
 
 
-When the teaching in our course finishes you are to hand in a project. The formal requirements are found [here](/isds2020/page/practical/) along with details on grading. The exam period runs until August 29 at 10 AM.
+When the teaching in our course finishes you are to hand in a project. The formal requirements are found [here](/isds2021/page/practical/) along with details on grading. The exam period runs until August 22 at 10 AM.
 
 In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.
 
@@ -12,4 +12,4 @@ We emphasize that some good projects use machine learning for modeling a variabl
 
 We also note that a good project is succinct and to the point. You should describe your data structuring at a high level to convey what you have done. Sometimes many hundred lines of complicated code can be stated quite briefly to get the essence.
 
-On the internal page on Absalon [here](https://absalon.ku.dk/courses/44054), we will make make some of projects from earlier years available. As you can see they span quite different subject, writing styles and use of machine learning.
+On the internal page on Absalon [here](https://absalon.ku.dk/courses/48020), we will make make some of projects from earlier years available. As you can see they span quite different subject, writing styles and use of machine learning.

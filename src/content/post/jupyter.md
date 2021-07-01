@@ -1,6 +1,6 @@
 ---
 title:  "Useful Jupyter tips"
-date: 2021-06-30
+date: 2021-07-01
 ---
 
 This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see [here](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook).

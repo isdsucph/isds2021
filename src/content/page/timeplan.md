@@ -1,10 +1,10 @@
 ---
 title: Timeplan
-date: 2021-06-30
+date: 2021-07-01
 markup: mmark
 ---
 
-This page contains a schedule of the teaching sessions. In general most of the teaching will take place August 10-19, 2020. Each day will contain one-two teaching sessions. Most sessions will follow the daily schedule below:
+This page contains a schedule of the teaching sessions. In general most of the teaching will take place August 02-11, 2021. Each day will contain one-two teaching sessions. Most sessions will follow the daily schedule below:
 
 - Morning session (9-12):
   - 9-11 exercises,
@@ -23,32 +23,31 @@ The complete schedule of sessions is listed below with title, lecturer and links
 Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
-Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)
-Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | [pdf](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment0_workshop_slides.pdf)|
+Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | 
+Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | 
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
-Aug 10|  9-10 | 1a. Course welcome | DDL |  [pdf](https://github.com/abjer/isds2020/blob/master/teaching_material/session_1/lecture_1a.pdf)
- | 10-11 | 1b. Python intro  | ABN |  [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_1/lecture_1b.ipynb)
+Aug 10|  9-10 | 1a. Course welcome | DDL |  
+ | 10-11 | 1b. Python intro  | ABN |  
  | 11-12 | 1c. Meet group and intro to git  | TAs |  
- | 14-17 | 2. Strings, queries and APIs | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2_solution.ipynb)
-Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3_solution.ipynb)
- | 14-17 | 4. Data structuring 1 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_4/module_4.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_4/module_4_solution.ipynb)
-Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_5/module_5.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_5/module_5_solution.ipynb)
- | 13-16 | 6. Scraping 1 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/lecture_6.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/exercise_6.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/exercise_6_solution.ipynb)
- | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment1/assignment_1.ipynb)
-Aug 13| 9-12| 7. Scraping 2 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/lecture_7.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7_solution.ipynb)
- |13-16| 8. Scraping 3 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/lecture_8.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8_solution.ipynb)
-Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | [pdf1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part1.pdf), [pdf2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part2.pdf)
+ | 14-17 | 2. Strings, queries and APIs | ABN & TAs| 
+Aug 11|  9-12 | 3. Visualizations | ABN & TAs| 
+ | 14-17 | 4. Data structuring 1 | ABN & TAs| 
+Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
+ | 13-16 | 6. Scraping 1 | NJ & TAs| 
+ | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  | 
+Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
+ |13-16| 8. Scraping 3 | NJ & TAs| 
+Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | 
  | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 13-15 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
-Aug 17|  9-12 | 10. Modeling and machine learning (ML)| ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10_solution.ipynb)
-Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11_solution.ipynb)
-Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12_solution.ipynb)
-Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs| [le1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/lecture_13_slides.ipynb), [le2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/recap_supervised_ml.ipynb)
-Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  |  [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment2/assignment_2.ipynb)
-Aug 19|  9-12 | 14. Text as data  | TJ & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_14/Introduction_to_Social_Data_Science_Text_as_Data.ipynb)
+Aug 17|  9-12 | 10. Modeling and machine learning (ML)| ABN & TAs|  
+Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  
+Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  
+Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs| 
+Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  | 
 Aug 20| 23:59 | <font color="red">Assignment 2 hand-in</font>  |  |  
 Aug 21| 9-11 |  *Supervision 2* `*` | TAs |
       |       | ---------   Week 3  ---------   | |
@@ -60,21 +59,16 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
-- [David Dreyer Lassen (DDL)](https://daviddlassen.github.io/)
+- [Joachim Kahr Rasmussen (JKR)](https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/464199)
 - [Nicklas Johansen (NJ)](https://nicklasjohansen.github.io/)
-- Terne Sasha Thorn Jakobsen (TJ)
+- [Terne Sasha Thorn Jakobsen (TJ)](https://research.ku.dk/search/result/?pure=en/persons/592888)
 
 #### Teaching assistants (TAs)
 - Emil Chrisander (EC)
 - Esben Brøgger Lemminger (EBL)
 - Kristoffer Pade Glavind (KPG)
-- Jakob Scheel-Bech (EC)
 - Jonas Skjold Raaschou-Pedersen (JSRP)
-- Josefine Bjørnholm (JB)
 - Lykke Sterll (LS)
-- Mads Berner Bruun (MBB)
-- Mathilde Ellegaard Bechmann (MEB)
-- Michael Skaarup Jørgensen (MSJ)
 
 
 #### Download material using Github Desktop

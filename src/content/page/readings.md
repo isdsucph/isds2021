@@ -1,6 +1,6 @@
 ---
 title: Course readings
-date: 2021-06-30
+date: 2021-07-01
 markup: mmark
 ---
 

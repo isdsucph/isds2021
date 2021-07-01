@@ -1,6 +1,6 @@
 ---
 title: Preparation
-date: 2021-06-30
+date: 2021-07-01
 ---
 
 
@@ -33,4 +33,4 @@ group members will be randomly selected among those who performed approximately 
 The assignment comes with built-in teaching material and references for learning more if you need more clarification. For those of you who find it difficult we offer to ways to seek help:
 - **An online workshop**: We will host a workshop on **Aug 04 at TBD** where we cover the skills required to answer this problem set. You can ask questions here.
 
-Remember to ask questions through the GitHub issues in our [ISDS2020 repository](https://github.com/isdsucph/isds2021/issues)!
+Remember to ask questions through the GitHub issues in our [ISDS2021 repository](https://github.com/isdsucph/isds2021/issues)!

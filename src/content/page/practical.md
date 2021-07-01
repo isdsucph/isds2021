@@ -1,6 +1,6 @@
 ---
 title: Practical info
-date: 2018-06-21
+date: 2021-07-01
 ---
 
 This page contains information about the course groups as well as information on mandatory assignments and exam project.

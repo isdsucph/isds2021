@@ -1,6 +1,6 @@
 ---
 title: Installation
-date: 2021-06-30
+date: 2021-07-01
 ---
 
 This class will involve a lot of coding, for which you will need some basic tools.
@@ -57,7 +57,7 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 #### Getting friendly with Jupyter
 
-Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor's keyboard shortcuts; see our post [here](/isds2020/post/jupyter/). The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:
+Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor's keyboard shortcuts; see our post [here](/isds2021/post/jupyter/). The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:
 
 > The key thing I emphasize to students is they should be using the mouse as little as possible. Every time you move your hands away from the keys, you're slowing yourself down.
 
@@ -73,7 +73,7 @@ If you are on Windows you can install [Github Desktop](https://desktop.github.co
 
 [Github](http://github.com) is a platform that facilitates collaboration on projects that use git. You can use it to host projects, publish them to the web, and share them with other people. [Create a free account](https://help.github.com/articles/signing-up-for-a-new-github-account/) if you don't already have one.
 
-Once you have an account, clone the [course repository](https://github.com/abjer/isds2020) using your local git client. This is most easily done on the command line as follows:
+Once you have an account, clone the [course repository](https://github.com/isdsucph/isds2021) using your local git client. This is most easily done on the command line as follows:
 
 ```
     # git clone https://github.com/abjer/isds2020
