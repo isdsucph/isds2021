@@ -7,7 +7,7 @@ This page contains information about the course groups as well as information on
 
 # Place and time
 
-The course runs from August 2, 2020 to August 24. See [timeplan](/isds2021/page/timeplan/) for teaching schedule.
+The course runs from August 2, 2021 to August 24. See [timeplan](/isds2021/page/timeplan/) for teaching schedule.
 
 The teaching format will be a mix of online and teaching on campus.
 - All lectures will be online and consist of an on-demand part and live part where questions are answered.
