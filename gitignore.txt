@@ -1,0 +1,13 @@
+*ipynb_checkpoints*
+*_master.ipynb
+*_solution.ipynb
+*session_*
+*exercise_template.ipynb
+*.vscode*
+*.slides.html
+*.nbgrader.log
+*Kahoot*
+*teaching_material/*
+src_material/*
+
+
