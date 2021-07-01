@@ -1,4 +1,4 @@
-baseurl = "https://abjer.github.io/isds2021"
+baseurl = "https://isdsucph.github.io/isds2021/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Intro to Social Data Science"

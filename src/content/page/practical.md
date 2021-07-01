@@ -7,7 +7,7 @@ This page contains information about the course groups as well as information on
 
 # Place and time
 
-The course runs from August 10, 2020 to August 29. See [timeplan](/isds2021/page/timeplan/) for teaching schedule.
+The course runs from August 2, 2020 to August 24. See [timeplan](/isds2021/page/timeplan/) for teaching schedule.
 
 The teaching format will be a mix of online and teaching on campus.
 - All lectures will be online and consist of an on-demand part and live part where questions are answered.
@@ -17,7 +17,7 @@ The teaching format will be a mix of online and teaching on campus.
 # Groups
 
 You have two options of being assigned to a group. The first is that you report the group to us and where all members consent. The second option is that if we have not heard from you then you will be assigned to a group by us. We will communicate the groups to you on the first day we will assign you to a group. Details about the two options for assignment is found below.
-1. In order to pre-register a group ***only one*** member should write an email to [Jonas Skjold Raaschou-Pedersen](mailto:jonas.pedersen@econ.ku.dk) expressing this. The deadline for sending the information is Friday August 7 at 12.00. The email should only say that all members consented and whether or not you want to participate in lab classes on campus or online. In order to be valid all group members must be recipients of the email using their KU email. Groups of only two people have the option of joining another group of two.  new people as this course has a broad group of students. The groups will be used for handing in Assignments 1 and 2 and the final exam projects, see below. If you are too few people in the group we will reassign you to another group.
+1. In order to pre-register a group ***only one*** member should write an email to [Jonas Skjold Raaschou-Pedersen](mailto:jonas.pedersen@econ.ku.dk) expressing this. The deadline for sending the information is Friday July 30 at 12.00. The email should only say that all members consented and whether or not you want to participate in lab classes on campus or online. In order to be valid all group members must be recipients of the email using their KU email. Groups of only two people have the option of joining another group of two.  new people as this course has a broad group of students. The groups will be used for handing in Assignments 1 and 2 and the final exam projects, see below. If you are too few people in the group we will reassign you to another group.
 2. The group forming by us will be based on two factors. First, whether or not you prefer online or on-campus lab classes, we only match people who attend the same kind of lab class. Second, given that the first criteria we randomly assign you to other students who performed similar to you in Assignment 0, see below.
 
 
@@ -29,7 +29,7 @@ There are three mandatory assignments. Two of three must be passed in order to b
 - Assignment 1: collecting data and structuring data.
 - Assignment 2: machine learning and text data.
 
-The assignments will be available in Absalon and at the [assignment page](/isds2020/post/assignment/)
+The assignments will be available in Absalon and at the [assignment page](/isds2021/post/assignment/)
 
 # Exam project
 
