@@ -76,7 +76,7 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 
 - Open Github Desktop and go to `File -> Open Repository`
 
-- Go to the URL-tab and choose the course Github page (abjer/isds2020), and where you want to save it on your own computer.
+- Go to the URL-tab and choose the course Github page (isdsucph/isds2021), and where you want to save it on your own computer.
 
 - Now you can access the files on you own computer.
 

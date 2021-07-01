@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>Assignments</title>
+      <link>https://isdsucph.github.io/isds2021/post/assignment/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2021/post/assignment/</guid>
+      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon here.
+Assignment 0: Available now, here. Deadline July 28 @ 12.00
+Assignment 1: Available now, here. Deadline August 14 @ 23.59
+Assignment 2: Available August 19. Deadline August 20 @ 23.59</description>
+    </item>
+    
+    <item>
       <title>Course readings</title>
       <link>https://isdsucph.github.io/isds2021/page/readings/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -85,18 +97,6 @@ The teaching format will be a mix of online and teaching on campus.
       <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
 Keyboard short cuts Editing and executing cells
  enter edit mode: click inside the cell or press ENTR exit edit mode: click outside cell or press ESC. executing code within a cell is SHFT+ENTR or CTRL+ENTR (not same!</description>
-    </item>
-    
-    <item>
-      <title>Assignments</title>
-      <link>https://isdsucph.github.io/isds2021/post/assignment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
-      <guid>https://isdsucph.github.io/isds2021/post/assignment/</guid>
-      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon here.
-Assignment 0: Available now, here. Deadline July 28 @ 12.00
-Assignment 1: Available now, here. Deadline August 14 @ 23.59
-Assignment 2: Available August 19. Deadline August 20 @ 23.59</description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
 title:  "Assignments"
-date: 2021-07-1
+date: 2021-07-01
 ---
 This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon [here](https://absalon.ku.dk/courses/48020/assignments).
 
