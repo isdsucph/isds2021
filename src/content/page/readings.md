@@ -15,7 +15,7 @@ Textbooks for data science in Python
 
 ## Preparation and Assignment 0
 
-The course begin with your preparation for the teaching. This consists in Assignment 0 which is a learning module and assignment together. In terms of teaching it provides  an overview of basic Python and how to use it for data analysis. We also introduce markdown for writing text that allows simple formatting in plain text.
+The course begins with your preparation for the teaching. This consists in Assignment 0 which is a learning module and assignment together. In terms of teaching it provides  an overview of basic Python and how to use it for data analysis. We also introduce markdown for writing text that allows simple formatting in plain text.
 
 #### Required reading
 
