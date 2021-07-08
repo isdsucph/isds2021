@@ -1,19 +1,19 @@
 ---
 title: Timeplan
-date: 2021-07-01
+date: 2021-07-05
 markup: mmark
 ---
 
-This page contains a schedule of the teaching sessions. In general most of the teaching will take place August 02-11, 2021. Each day will contain one-two teaching sessions. Most sessions will follow the daily schedule below:
+This page contains a schedule of the teaching sessions. Most of the teaching will take place August 02-13, 2021, with additional supervision on August 17. Each day will generally contain one-two teaching sessions. Most sessions will follow the daily schedule below:
 
 - Morning session (9-12):
-  - 9-11 exercises,
-  - 11-12 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
+  - 9-10 Live lecture,
+  - 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises
 - Lunch break (12-13):
-  - 12-13 office hours, optional (via Zoom, booking system will come)
 - Afternoon session (13-16):
-  - 13-15 exercise
-  - 15-16 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
+  - 9-10 Live lecture,
+  - 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises
+- Office hour, optional: 16-17 (booking system will come)
 
 
 The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above.
@@ -23,39 +23,49 @@ The complete schedule of sessions is listed below with title, lecturer and links
 Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
-Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | 
-Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | 
-Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
+Jul 01|        |  <font color="green">Assignment 0 posted</font>   |  | 
+Aug 28|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
-Aug 10|  9-10 | 1a. Course welcome | DDL |  
- | 10-11 | 1b. Python intro  | ABN |  
- | 11-12 | 1c. Meet group and intro to git  | TAs |  
- | 14-17 | 2. Strings, queries and APIs | ABN & TAs| 
-Aug 11|  9-12 | 3. Visualizations | ABN & TAs| 
- | 14-17 | 4. Data structuring 1 | ABN & TAs| 
-Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
- | 13-16 | 6. Scraping 1 | NJ & TAs| 
- | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  | 
-Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
- |13-16| 8. Scraping 3 | NJ & TAs| 
-Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | 
- | 11-12  | 9b. Assignment 1 workshop | TAs |
- | 13-15 | Supervision 1 `*` | TAs |
+Aug 02|  9-11 | 1a. Course welcome + intro to git and markdown | ABN/JKR/NJ/TJ |  
+ | 11-12 | 1b. Meet group  | TAs/JKR |  
+ | 13-16 | 2. Data Structuring 1 | JKR & TAs|
+ | 16-17 | Office Hour | JKR |  
+Aug 03|  9-12 | 3. Data Structuring 2 | JKR & TAs| 
+ | 13-16 | 4. Plotting | JKR & TAs| 
+ | 16-17 | Office Hour | JKR |
+ | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |   
+Aug 04|  9-12 | 5. Strings, Queries and APIs | JKR & TAs|
+ | 13-16 | 6. Scraping 1 | NJ & TAs|
+ | 16-17 | Office Hour | NJ |
+Aug 05|  9-12 | 7. Scraping 2 | NJ & TAs|
+ | 12-13 | Office Hour | NJ |
+ | 13:59 |  <font color="red">Fill in supervision sheet</font>   |--  |   
+ | 14-16 | TA help + supervision `*` | TAs|
+Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
+ | 14-16 | TA help + supervision `*` | TAs|
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
-Aug 17|  9-12 | 10. Modeling and machine learning (ML)| ABN & TAs|  
-Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  
-Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  
-Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs| 
-Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  | 
-Aug 20| 23:59 | <font color="red">Assignment 2 hand-in</font>  |  |  
-Aug 21| 9-11 |  *Supervision 2* `*` | TAs |
-      |       | ---------   Week 3  ---------   | |
-Aug 23| 20:00 | <font color="red">Exam project description due</font>  |  |  
-Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
+Aug 09| 9-12| 8. Scraping 3 | NJ & TAs|
+ |13-16| 9. Data Ethics | ABN & TAs|
+ |16-17| Office Hour | ABN|
+Aug 10| 9-12| 10. ML Introduction | JKR & TAs|
+ |13-16| 11. Regression and Regularization | JKR & TAs|
+ |16-17| Office Hour | JKR|
+ | 23:59 |  <font color="green">Assignment 2 posted</font>   |--  |   
+Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs|
+ |13-16| 13. Model Selection and Cross-validation | JKR & TAs|
+ |16-17| Office Hour | JKR|
+Aug 12| 9-12| 13. Text as Data | TJ & TAs|
+ | 12-13 | Office Hour | TJ |
+ | 14-16 | TA help + supervision `*` | TAs|
+Aug 13|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
+ | 14-16 | TA help + supervision `*` | TAs|
+ | 23:59 |  <font color="red">Assignment 2 hand-in</font>   |  | 
+ |       | ---------   Week 3  --------- | |
+Aug 16| 20:00 | <font color="red">Exam project description due</font>  |  |  
+Aug 17| 10-12 |  *Supervision 3* `*` | TAs |
 
-`*` : optional participation,
-
+`*` : optional participation
 
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
@@ -64,11 +74,11 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 - [Terne Sasha Thorn Jakobsen (TJ)](https://research.ku.dk/search/result/?pure=en/persons/592888)
 
 #### Teaching assistants (TAs)
-- Emil Chrisander (EC)
-- Esben Brøgger Lemminger (EBL)
-- Kristoffer Pade Glavind (KPG)
 - Jonas Skjold Raaschou-Pedersen (JSRP)
 - Lykke Sterll (LS)
+- Esben Brøgger Lemminger (EBL)
+- Matias Piqueras (MP)
+- Mischa Annett Püschl Diemar (MAPD)
 
 
 #### Download material using Github Desktop
