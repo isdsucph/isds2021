@@ -184,8 +184,8 @@ We explain the overfitting problem of modelling. We show one possible solution i
 
 - PML: chapter 3, the following sections:
   - Tackling overfitting via regularization
-  - Partitioning a dataset into separate training and test sets
 - PML: chapter 4, the following sections:
+  - Partitioning a dataset into separate training and test sets
   - Bringing features onto the same scale
   - Selecting meaningful features
 - PML: chapter 10, the following sections:

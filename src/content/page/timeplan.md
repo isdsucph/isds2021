@@ -24,7 +24,7 @@ Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
 Jul 01|        |  <font color="green">Assignment 0 posted</font>   |  | 
-Aug 28|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
+Jul 28|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
 Aug 02|  9-11 | 1a. Course welcome + intro to git and markdown | ABN/JKR/NJ/TJ |  
  | 11-12 | 1b. Meet group  | TAs/JKR |  
