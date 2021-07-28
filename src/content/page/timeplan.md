@@ -11,8 +11,8 @@ This page contains a schedule of the teaching sessions. Most of the teaching wil
   - 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises
 - Lunch break (12-13):
 - Afternoon session (13-16):
-  - 9-10 Live lecture,
-  - 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises
+  - 13-14 Live lecture,
+  - 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises
 - Office hour, optional: 16-17 (booking system will come)
 
 

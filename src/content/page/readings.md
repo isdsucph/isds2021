@@ -66,7 +66,7 @@ We learn about data transformation and working with specific data types in panda
 
 #### Required reading
 
-- PDA: chapter 7 and sections 11.1-11.2, 12.1, 12.3.
+- PDA: chapter 7 and sections 5.3, 11.1-11.2, 12.1, 12.3.
 - PML: chapter 4, section 'Handling categorical data'.
 
 #### Inspirational reading `*`
@@ -79,9 +79,10 @@ We learn about data transformation and working with specific data types in panda
 We round-off data structuring by learning two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
 
 #### Required reading
-- PDA: chapters 8 and 10 and sections 5.3, 6.1-6.2
-- Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
+- PDA: chapters 8 and 10.
 
+#### Inspirational reading `*`
+- Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
 
 
 ## Session 4: Intro to visualization
@@ -189,11 +190,11 @@ We explain the overfitting problem of modelling. We show one possible solution i
   - Bringing features onto the same scale
   - Selecting meaningful features
 - PML: chapter 10, the following sections:
-    - Introducing linear regression
-    - Implementing an ordinary least squares linear regression model
-    - Evaluating the performance of linear regression models
-    - Using regularized methods for regression
-    - Turning a linear regression model into a curve – polynomial regression
+  - Introducing linear regression
+  - Implementing an ordinary least squares linear regression model
+  - Evaluating the performance of linear regression models
+  - Using regularized methods for regression
+  - Turning a linear regression model into a curve – polynomial regression
 
 
 
@@ -203,7 +204,11 @@ We introduce cross validation to gauge overfitting and review the linear model.
 
 #### Required readings
 
-- PML: chapter 6.
+- PML: chapter 6, the following sections:
+  - Streamlining workflows with pipelines
+  - Using k-fold cross-validation to assess model performance
+  - Debugging algorithms with learning and validation curves
+  - Fine-tuning machine learning models via grid search
 
 
 
@@ -212,6 +217,10 @@ We introduce cross validation to gauge overfitting and review the linear model.
 We give an overview of non-linear machine learning models and outline how machine learning tools can be applied in social science.
 
 #### Required readings
+
+- PML: chapter 6, the following sections:
+  - Looking at different performance evaluation metrics
+  - Dealing with class imbalance
 
 - Mullainathan, Sendhil, and Jann Spiess. 2017. ["Machine Learning: An Applied Econometric Approach."](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) *Journal of Economic Perspectives*, 31 (2): 87-106.
 
