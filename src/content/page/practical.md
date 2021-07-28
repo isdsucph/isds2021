@@ -12,7 +12,8 @@ The course runs from August 2, 2021 to August 24. See [timeplan](/isds2021/page/
 The teaching format will be a mix of online and teaching on campus.
 - All lectures will be online and consist of an on-demand part and live part where questions are answered.
 - Lab/exercise classes will run both online and on-campus. Students must choose which part they want to attend.
-
+- All lectures and lab/exercise classes on campus will take place in [CSS 35-01-05](https://socialsciences.ku.dk/contact/howtofindus/). 
+- Zoom link for online lectures and lab/exercise classes can be found [here](https://ucph-ku.zoom.us/j/64901191619). 
 
 # Groups
 
