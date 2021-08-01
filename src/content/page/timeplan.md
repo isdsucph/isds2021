@@ -16,7 +16,7 @@ This page contains a schedule of the teaching sessions. Most of the teaching wil
 - Office hour, optional: 16-17 (booking system will come)
 
 
-The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above. See [practical information](/isds2021/page/practical/) for where lectures and exercises take place. 
+The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above. See [practical information](/isds2021/page/practical/) for where lectures and exercise classes take place. 
 
 <br />
 
