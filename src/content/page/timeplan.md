@@ -70,7 +70,7 @@ Aug 17| 10-12 |  *Supervision 3* `*` | TAs |
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
 - [Joachim Kahr Rasmussen (JKR)](https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/464199)
-- [Nicklas Johansen (NJ)](https://nicklasjohansen.github.io/)
+- [Nicklas Johansen (NJ)](https://nicklasjohansen.netlify.app/)
 - [Terne Sasha Thorn Jakobsen (TJ)](https://research.ku.dk/search/result/?pure=en/persons/592888)
 
 #### Teaching assistants (TAs)
