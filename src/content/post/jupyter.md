@@ -44,6 +44,9 @@ Using the syntax `%matplotlib inline` allows you to make figures within Jupyter 
 
 Execute a cell with `?fct` will give you information about the function `fct`. Note this command also work on objects' methods.
 
+*Another way of showing a function's description*
+
+Inside a function you can view the function's docstring by pressing `SHIFT + TAB` (try writing "sum(" and then pressing `SHIFT + TAB`). Mac users see  `Help > Keyboard Shortcuts`. 
 
 ## Further resources
 
