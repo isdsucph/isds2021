@@ -34,7 +34,7 @@ Aug 03|  9-12 | 3. Data Structuring 2 | JKR & TAs| [le](https://github.com/isdsu
  | 13-16 | 4. Plotting | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_4/module_4_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_4/module_4_exercises.ipynb), [nb sol](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_4/module_4_exercises_sol.ipynb)
  | 16-17 | Office Hour | JKR | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |   [nb](https://github.com/isdsucph/isds2021/blob/main/assignments/assignment1/assignment_1.ipynb)
-Aug 04|  9-12 | 5. Strings, Queries and APIs | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_5/module_5_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_5/module_5_exercises.ipynb)
+Aug 04|  9-12 | 5. Strings, Queries and APIs | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_5/module_5_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_5/module_5_exercises.ipynb), [nb sol](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_5/module_5_exercises_sol.ipynb)
  | 13-16 | 6. Scraping 1 | NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_6/module_6.ipynb)
  | 16-17 | Office Hour | NJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
 Aug 05|  9-12 | 7. Scraping 2 | NJ & TAs|
