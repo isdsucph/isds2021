@@ -40,9 +40,9 @@ Aug 04|  9-12 | 5. Strings, Queries and APIs | JKR & TAs| [le](https://github.co
 Aug 05|  9-12 | 7. Scraping 2 | NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_7/module_7_exercises.ipynb)
  | 12-13 | Office Hour | NJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 13:59 |  <font color="red">Fill in supervision sheet</font>   |--  |   [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/Supervision_Sheet.pdf)
- | 14-16 | TA help + supervision `*` | TAs|
+ | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
 Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
- | 14-16 | TA help + supervision `*` | TAs|
+ | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
 Aug 09| 9-12| 8. Scraping 3 | NJ & TAs|
@@ -57,13 +57,13 @@ Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs|
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
 Aug 12| 9-12| 13. Text as Data | TJ & TAs|
  | 12-13 | Office Hour | TJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
- | 14-16 | TA help + supervision `*` | TAs|
+ | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
 Aug 13|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
- | 14-16 | TA help + supervision `*` | TAs|
+ | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
  | 23:59 |  <font color="red">Assignment 2 hand-in</font>   |  | 
  |       | ---------   Week 3  --------- | |
 Aug 16| 20:00 | <font color="red">Exam project description due</font>  |  |  
-Aug 17| 10-12 |  *Supervision 3* `*` | TAs |
+Aug 17| 10-12 |  *Supervision 3* `*` | TAs | [abs](https://absalon.ku.dk/courses/48020/pages/groups)
 
 `*` : optional participation
 
@@ -100,3 +100,4 @@ Aug 17| 10-12 |  *Supervision 3* `*` | TAs |
 - {ex, le, sol}: Respectively refer to exercises, lecture slides or solutions in Jupyter Notebook format
 - pdf: Slides in PDF format or just PDF file
 - gs: Google Sheets link 
+- abs: Link to Absalon page with groups and TAs assigned for supervision 
