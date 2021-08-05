@@ -39,7 +39,7 @@ Aug 04|  9-12 | 5. Strings, Queries and APIs | JKR & TAs| [le](https://github.co
  | 16-17 | Office Hour | NJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
 Aug 05|  9-12 | 7. Scraping 2 | NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_7/module_7_exercises.ipynb)
  | 12-13 | Office Hour | NJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
- | 13:59 |  <font color="red">Fill in supervision sheet</font>   |--  |   
+ | 13:59 |  <font color="red">Fill in supervision sheet</font>   |--  |   [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/Supervision_Sheet.pdf)
  | 14-16 | TA help + supervision `*` | TAs|
 Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
  | 14-16 | TA help + supervision `*` | TAs|
@@ -98,5 +98,5 @@ Aug 17| 10-12 |  *Supervision 3* `*` | TAs |
 - nb: Slides and exercise in Jupyter Notebook format
 - nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
 - {ex, le, sol}: Respectively refer to exercises, lecture slides or solutions in Jupyter Notebook format
-- pdf: Slides in PDF format
+- pdf: Slides in PDF format or just PDF file
 - gs: Google Sheets link 
