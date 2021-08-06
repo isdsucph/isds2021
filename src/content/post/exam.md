@@ -4,7 +4,7 @@ date: 2021-07-01
 ---
 
 
-When the teaching in our course finishes you are to hand in a project. The formal requirements are found [here](/isds2021/page/practical/) along with details on grading. The exam period runs until August 22 at 10 AM.
+When the teaching in our course finishes you are to hand in a project. The formal requirements are found [here](/isds2021/page/practical/) along with details on grading. The exam period runs until August 24 at 10 AM.
 
 In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.
 
