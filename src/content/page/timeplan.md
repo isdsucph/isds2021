@@ -41,7 +41,7 @@ Aug 05|  9-12 | 7. Scraping 2 | NJ & TAs| [nb](https://github.com/isdsucph/isds2
  | 12-13 | Office Hour | NJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 13:59 |  <font color="red">Fill in supervision sheet</font>   |--  |   [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/Supervision_Sheet.pdf)
  | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
-Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
+Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/exam_talk/Exam_talk_1.ipynb), [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/exam_talk/SDS2019_35_Swedish_central_bank.pdf), [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/exam_talk/SDS2019_Esben.pdf)
  | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
