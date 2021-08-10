@@ -48,7 +48,7 @@ Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs| [nb](https://
 Aug 09| 9-12| 8. Scraping 3 | NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_8/module_8.ipynb)
  |13-16| 9. Data Ethics | ABN & TAs| [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_9/lecture_9.pdf)
  |16-17| Office Hour | NJ| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
-Aug 10| 9-12| 10. ML Introduction | JKR & TAs|
+Aug 10| 9-12| 10. ML Introduction | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_10/module_10_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_10/module_10_exercises.ipynb)
  |13-16| 11. Regression and Regularization | JKR & TAs|
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 23:59 |  <font color="green">Assignment 2 posted</font>   |--  |   
