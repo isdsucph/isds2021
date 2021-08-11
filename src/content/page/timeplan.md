@@ -53,7 +53,7 @@ Aug 10| 9-12| 10. ML Introduction | JKR & TAs| [le](https://github.com/isdsucph/
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 23:59 |  <font color="green">Assignment 2 posted</font>   |--  | [nb](https://github.com/isdsucph/isds2021/blob/main/assignments/assignment2/assignment_2.ipynb) 
 Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_12/module_12_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_12/module_12_exercises.ipynb)
- |13-16| 13. Model Selection and Cross-validation | JKR & TAs|
+ |13-16| 13. Model Selection and Cross-validation | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_13/module_13_slides.ipynb)
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
 Aug 12| 9-12| 13. Text as Data | TJ & TAs|
  | 12-13 | Office Hour | TJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
