@@ -52,7 +52,7 @@ Aug 10| 9-12| 10. ML Introduction | JKR & TAs| [le](https://github.com/isdsucph/
  |13-16| 11. Regression and Regularization | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_11/module_11_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_11/module_11_exercises.ipynb)
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 23:59 |  <font color="green">Assignment 2 posted</font>   |--  | [nb](https://github.com/isdsucph/isds2021/blob/main/assignments/assignment2/assignment_2.ipynb) 
-Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs|
+Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_12/module_12_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_12/module_12_exercises.ipynb)
  |13-16| 13. Model Selection and Cross-validation | JKR & TAs|
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
 Aug 12| 9-12| 13. Text as Data | TJ & TAs|
