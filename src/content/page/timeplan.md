@@ -45,7 +45,7 @@ Aug 06|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs| [nb](https://
  | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
-Aug 09| 9-12| 8. Scraping 3 | NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_8/module_8.ipynb)
+Aug 09| 9-12| 8. Scraping 3 | NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_8/module_8.ipynb), [nb sol](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_8/module_8_sol.ipynb)
  |13-16| 9. Data Ethics | ABN & TAs| [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_9/lecture_9.pdf)
  |16-17| Office Hour | NJ| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
 Aug 10| 9-12| 10. ML Introduction | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_10/module_10_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_10/module_10_exercises.ipynb)
@@ -55,7 +55,7 @@ Aug 10| 9-12| 10. ML Introduction | JKR & TAs| [le](https://github.com/isdsucph/
 Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_12/module_12_slides.ipynb), [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_12/module_12_exercises.ipynb)
  |13-16| 13. Model Selection and Cross-validation | JKR & TAs| [le](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_13/module_13_slides.ipynb)
  |16-17| Office Hour | JKR| [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
-Aug 12| 9-12| 13. Text as Data | TJ & TAs|
+Aug 12| 9-12| 14. Text as Data | TJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_14/module_14.ipynb)
  | 12-13 | Office Hour | TJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
 Aug 13|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
