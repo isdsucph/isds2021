@@ -58,7 +58,7 @@ Aug 11| 9-12| 12. Model Selection and Cross-validation | JKR & TAs| [le](https:/
 Aug 12| 9-12| 14. Text as Data | TJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/module_14/module_14.ipynb)
  | 12-13 | Office Hour | TJ | [gs](https://docs.google.com/spreadsheets/d/1oOn_mvmavFBHZe98Ew28Tln3LheaUd5pe9JDzRcSQ1U/edit#gid=0)
  | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
-Aug 13|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs|
+Aug 13|  9-12 | Exam talk + TA help  + Supervision | JKR/NJ & TAs| [nb](https://github.com/isdsucph/isds2021/blob/main/teaching_material/exam_talk/Exam_talk_2.ipynb), [pdf](https://github.com/isdsucph/isds2021/blob/main/teaching_material/exam_talk/Project_Description.pdf)
  | 14-16 | TA help + supervision `*` | TAs| [abs](https://absalon.ku.dk/courses/48020/pages/groups)
  | 23:59 |  <font color="red">Assignment 2 hand-in</font>   |  | 
  |       | ---------   Week 3  --------- | |
