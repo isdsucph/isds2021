@@ -12,4 +12,4 @@ We emphasize that some good projects use machine learning for modeling a variabl
 
 We also note that a good project is succinct and to the point. You should describe your data structuring at a high level to convey what you have done. Sometimes many hundred lines of complicated code can be stated quite briefly to get the essence.
 
-On the internal page on Absalon [here](https://absalon.ku.dk/courses/48020), we will make make some of projects from earlier years available. As you can see they span quite different subject, writing styles and use of machine learning.
+Earlier projects span quite different subject, writing styles and use of machine learning. You can see two examples under August 06 on the timeplan.

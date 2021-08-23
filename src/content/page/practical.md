@@ -58,6 +58,7 @@ The exam projects have a number of requirements that must be met, these are: req
 - Project formalia
   - Project must consist of a report (.pdf file) and a documentation as Jupyter Notebook (.ipynb file).
   - The report should be written like a brief research article (short literature review, references to methods, results etc.). The report is limited to the following maximum number of pages (normalsider).
+    - 1 member, 9 pages;
     - 2 members, 12 pages;
     - 3 members, 15 pages;
     - 4 members, 18 pages.  
